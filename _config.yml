@@ -23,7 +23,7 @@ email: alquinn2@uncg.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Aidan Quinn's work portfolio. Here you will find his itch page, linkedIn, and other sites.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://eightbyfour.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
