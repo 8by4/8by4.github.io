@@ -1,11 +1,10 @@
-title: Jekyll Serial Programmer
+title: Aidan Quinn's Portfolio
 markdown: kramdown
 
 # for atom feed
 author:
-  name: Sharad Raj Singh Maurya
-  email: dev_sharad@outlook.com
-  title: Aidan Quinn's Portfolio
+  name: Aidan Quinn
+  email: alquinn2@uncg.edu
 
 plugins:
   - jemoji
