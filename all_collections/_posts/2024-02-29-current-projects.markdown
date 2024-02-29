@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Current Projects"
-date:   2024-02-29
-categories: Godot Jekyll HTML SQL
+categories: Godot Jekyll HTML SQL Python
 ---
 `Personal Projects:`
 - Game Development
@@ -13,6 +12,9 @@ categories: Godot Jekyll HTML SQL
   > [Metroidvania Month 23][metroidvania-month]: A month long game jam wherein,
     a small group of 3, including myself work on a game following the
     metroidvania style. Our project is being built within Godot.
+    
+  > Webpage Building: I am currently building this page
+    through Jekyll and GitHub Pages.
 
 `School Projects:`
 - SQL
