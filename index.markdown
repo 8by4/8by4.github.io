@@ -1,4 +1,4 @@
 ---
-title: Aidan Quinn's Portfolio aaa
+title: Homepage
 layout: blog
 ---
