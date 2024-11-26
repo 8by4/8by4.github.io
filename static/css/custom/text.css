@@ -1,0 +1,18 @@
+/*Text Color*/
+.text-lavender{
+    color: #9d68ba;
+}
+
+/*Asset Changes*/
+.custom-navbar-title {
+    padding-top: var(--bs-navbar-brand-padding-y);
+    padding-bottom: var(--bs-navbar-brand-padding-y);
+    margin-right: var(--bs-navbar-brand-margin-end);
+    font-size: var(--bs-navbar-brand-font-size);
+    color: #b779d9;
+    text-decoration: none;
+    white-space: nowrap;
+}
+.custom-navbar-title:hover, .navbar-brand:focus {
+    color: #daa6f7;
+}
